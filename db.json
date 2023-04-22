@@ -1,0 +1,149 @@
+{
+  "destinations": [
+    {
+      "name": "Oslo",
+      "slug": "oslo",
+      "image": "oslo.jpg",
+      "id": 1,
+      "description":
+        "The picturesque, cosmopolitan city of Oslo is the capital of Norway. Located in the southeast corner of the country, this coastal city is bursting with greenery and outdoor activities, cool museums, lots of art, amazing seafood, and more. Oslo makes for an excellent base to explore southern Norway as well as a fun weekend getaway destination. There are plenty of hiking and biking trails nearby, as well as ample opportunities to swim, fish, go boating, and ski. While not the cheapest city in the world (it’s actually one of the most expensive), it’s nevertheless worth a visit to see the incredible fjords and take in the relaxed place of Scandinavian life. There are lots of free and cheap things to do as well, so you don’t have to break the bank.",
+      "experiences": [
+        {
+          "name": "the Opera",
+          "slug": "the-opera",
+          "image": "the-opera.jpg",
+          "description":
+            "Norway’s largest performing arts institution is home to the world’s first opera house rooftop. Opened in 2007, the building itself is composed of multiple flat levels that essentially act as small plazas, allowing visitors to walk on the roof and enjoy the view of the harbor and city. It’s a popular spot to watch the sunset when the weather is nice. Ticket prices for the opera and ballet vary for each production but expect to pay at least 200 NOK. If you don’t mind standing, there are some tickets available for 100 NOK. There are also occasional ","balcony concerts":" performed by students, which are free and a great way to enjoy music on a budget. Daily guided tours of the building are available in English. They last 50 minutes and cost 120 NOK."
+        },
+        {
+          "name": "Akershus Fortress",
+          "slug": "akershus-fortress",
+          "image": "akershus-fortress.jpg",
+          "description":
+            "Akershus Fortress is a medieval fortress originally commissioned in 1299 that later evolved into a Renaissance palace under Danish King Christian IV. In World War II, the Germans used the fort to execute dissidents. After the war, Nazi collaborators were executed here. Today, it’s a temporary office for the Prime Minister. There is a small museum inside that highlights the fort’s turbulent history. Admission is free."
+        },
+        {
+          "name": "Vigeland Sculpture Park",
+          "slug": "vigeland-sculpture-park",
+          "image": "vigeland-sculpture-park.jpg",
+          "description":
+            "Located in Frogner Park, is the world’s largest display of sculptures created by a single artist. Gustav Vigeland (1869–1943) created over 200 bronze, iron, and granite statues that now stand in the open-air ","gallery":" (which covers a whopping 80 acres). The crying baby statue is the most famous. In the summer, there are often events held here as well. It’s open daily and free to visit."
+        },
+        {
+          "name": "Go Swimming",
+          "slug": "swimming",
+          "image": "swimming.jpg",
+          "description":
+            "Oslo has many outdoor areas that are ideal for swimming, from rivers to lakes to the Oslo fjord itself. The water here is clean and safe too. Tjuvholmen City Beach, Sørenga Seawater Pool, and Huk (Oslo’s popular beach for a younger crowd) are three places worth checking out if you’re looking to take a dip. You’ll usually see plenty of locals enjoying the water — even in the winter!"
+        }
+      ]
+    },
+    {
+      "name": "Bergen",
+      "slug": "bergen",
+      "image": "bergen.jpg",
+      "id": 2,
+      "description":
+        "Surrounded by seven hills and seven fjords, Bergen is a beguiling city. During the early Middle Ages, it was an important seaport and a member of the Hanseatic League, as well as Norway's capital – a heritage that can still be glimpsed in the beautifully preserved wooden buildings of Bryggen, now protected as a Unesco World Heritage site. Chocolate-box, clapperboard houses creep up the hillsides, ferries flit around the fjords, and a cluster of excellent art museums provide a welcome detour, and not only in case Bergen's notoriously fickle weather sets in. ",
+      "experiences": [
+        {
+          "name": "KODE",
+          "slug": "kode",
+          "image": "kode.jpg",
+          "description":
+            "A catch-all umbrella for Bergen's art museums, KODE showcases one of the largest art-and-design collections in Scandinavia. Each of the four buildings has its own focus: KODE 1 houses a dazzling national silver collection and the renowned Singer art collection; KODE 2 is for contemporary exhibitions; KODE 3 majors in Edvard Munch; and KODE 4 focuses on modern art."
+        },
+        {
+          "name": "Ole Bull Museum",
+          "slug": "ole-bull-museum",
+          "image": "ole-bull-museum.jpg",
+          "description":
+            "This beautiful estate was built in 1873 as the summer residence of Norway’s first musical superstar, violinist Ole Bull. Languishing on its own private island, it's a fairy-tale concoction of turrets, onion domes, columns and marble inspired by Moorish architecture. Of particular note is the soaring pine music hall: it's hard not to imagine Bull practising his concertos in here."
+        },
+        {
+          "name": "Akvariet i Bergen",
+          "slug": "akvariet",
+          "image": "akvariet.jpg",
+          "description":
+            "At the end of the Nordnes Peninsula, this aquarium makes a worthwhile trip, especially for families. There are around 60 individual aquaria here, housing lots of interesting marine species from octopi to reef fish, although kids are bound to gravitate to the shark tunnel or the seals and penguins. There's also a tropical zone housing snakes, crocodiles and other reptiles.On foot, you can get there from Torget in 20 minutes; alternatively, take the Vågen ferry or bus 11."
+        }
+      ]
+    },
+    {
+      "name": "Trondheim",
+      "slug": "trondheim",
+      "image": "trondheim.jpg",
+      "id": 3,
+      "description":
+        "With its colourful warehouses, waterways and wooded hills, Norway's third-largest city is without doubt one of its most photogenic. Trondheim, the country's historic capital, is a pleasure to explore, with wide streets and a partly pedestrianised heart. Great cafes, restaurants and museums compete for attention, while Europe's northernmost Gothic cathedral doesn't need to try. Fishing boats putter around the harbour, gulls wheel and screech overhead, and beyond the city's outskirts there's a wealth of wilderness to explore.",
+      "experiences": [
+        {
+          "name": "Nidaros Domkirke",
+          "slug": "nidaros-domkirke",
+          "image": "nidaros-domkirke.jpg",
+          "description":
+            "Nidaros Cathedral is Scandinavia's largest medieval building, and the northernmost Gothic structure in Europe. Outside, the ornately embellished, altar-like west wall has top-to-bottom statues of biblical characters and Norwegian bishops and kings, sculpted in the early 20th century. Several are copies of medieval originals, nowadays housed in the adjacent museum. Note the glowing, vibrant colours of the modern stained glass in the rose window at the west end in striking contrast to the interior gloom. Photography not permitted."
+        },
+        {
+          "name": "Rockheim",
+          "slug": "rockheim",
+          "image": "rockheim.jpg",
+          "description":
+            "This terrific museum is devoted to pop and rock music, mainly Norwegian, from the 1950s until yesterday. It's a dockside temple to R&B, where a huge projecting roof featuring Norwegian record covers extends above an equally vast converted warehouse. Within, there's plenty of action and interaction (mix your own hip-hop tape, for example). Home of Rock is on the quayside, very near Pirbadet and the fast-ferry landing stage. From mid-June to mid-August, there's a free, English-language guided tour of the museum."
+        },
+        {
+          "name": "Archbishop's Palace",
+          "slug": "archbishop-palace",
+          "image": "archbishop-palace.jpg",
+          "description":
+            "The 12th-century archbishop's residence (Erkebispegården), commissioned around 1160 and Scandinavia's oldest secular building, is beside the cathedral. In its west wing, you'll find Norway's shimmering crown jewels and its museum. After visiting the well-displayed statues, gargoyles and carvings from the cathedral, drop to the lower level with a selection of the myriad artefacts revealed during the museum's late-1990s construction. The palace also has an enjoyable 15-minute audiovisual program. If you're visiting Trondheim's cathedral, it's cheaper to buy the combination ticket, which covers admission to all three attractions (archbishop's palace, crown jewels and cathedral)."
+        },
+        {
+          "name": "Gamle Bybro",
+          "slug": "gamle-bybro",
+          "image": "gamle-bybro.jpg",
+          "description":
+            "There's been a bridge here since 1681, connecting the city with the Kristiansten Fort and guarded at each end by a watch-house (although only one now remains, currently occupied by a kindergarten). The present bridge dates from 1861, and it's a beauty – pedestrianised and clad in planks, it's the best place in town to get that essential shot of Trondheim's riverside warehouses. It's also the quickest way to get over to Bakklandet from the city centre.\n\n"
+        }
+      ]
+    },
+    {
+      "name": "Kristiansand",
+      "slug": "kristiansand",
+      "image": "kristiansand.jpg",
+      "id": 4,
+      "description":
+        "Kristiansand is Norway's fifth-largest city and styles itself as 'Norway's No 1 Holiday Resort'. That can be a bit misleading: sun-starved Norwegians do flock to this charming big town in the summer, and there's a petite town beach and flash marina, but it tends to serve as a gateway to the villages of Norway's southern coast and the inland region of Setesdalen. What Kristiansand offers in spades, though, is a lively cultural and shopping scene, some excellent restaurants and very healthy nightlife. In addition, anyone travelling with children will more than likely find themselves cajoled into visiting the town's outstanding children's park and zoo.",
+      "experiences": [
+        {
+          "name": "Sørlandets Kunstmuseum",
+          "slug": "sørlandets-kunstmuseum",
+          "image": "sørlandets-kunstmuseum.jpg",
+          "description":
+            "This exceptional regional art museum focuses on both fine and craft-based practices, and the collection includes some particularly strong contemporary work from local, Norwegian and Nordic artists. There is a bright, beautifully designed, pleasingly sophisticated children's wing. For anyone interested in Norwegian ceramics, the 44 works by local Kari Christensen will prove a treat."
+        },
+        {
+          "name": "Kristiansand's Dyrepark",
+          "slug": "kristiansand-dyrepark",
+          "image": "kristiansand-dyrepark.jpg",
+          "description":
+            "Off the E18, 10km east of Kristiansand, Dyrepark is probably the favourite holiday destination for Norwegian kids. The former zoo is several parks rolled into one. There's a fun fair that includes rides such as the pirate-ship cruise, Captain Sabretooth's Treasure Trove and enchanted houses. Cardamom Town (Kardamomme By) is a fantasy village based on the children's stories of Thorbjørn Egner. There's a water park with heated pools and water slides. The biggest attraction, though, is still the zoo itself. It houses a large number of species, including red pandas, a crocodile house, lions and tigers and an African savannah filled with giraffes, zebras and others. For non-Norwegians, the highlight is the Northern Wilderness (Nordisk Vilmark), where visitors are transported through the habitat of moose, wolves, lynx and wolverines on elevated boardwalks."
+        },
+        {
+          "name": "Christiansholm Fortress",
+          "slug": "christiansholm-fortress",
+          "image": "christiansholm-fortress.jpg",
+          "description":
+            "Strandpromenaden's hulking centrepiece is the distinctive Christiansholm Fortress. Built by royal decree between 1662 and 1672 to keep watch over the strategic Skagerrak Straits and protect the city from pirates and rambunctious Swedes, the construction featured walls up to 5m thick and an armoury buried within a concentric inner wall. It was connected to the mainland by a bridge over a moat (filled in during the 19th century) deep enough to accommodate tall ships."
+        },
+        {
+          "name": "Agder Museum",
+          "slug": "agder-museum",
+          "image": "agder-museum.jpg",
+          "description":
+            "The winding paths through the established 50-hectare park at Gimle Estate lead through a botanic garden that also contains rocks, minerals, stuffed animals and greenhouses containing the largest collection of cacti in Norway. The estate house has 19th-century period interiors and extraordinary teethlike columns at the front, and there's also a historic rose garden dating from 1850. It's just over 1km from the centre, across the Oddernes bridge."
+        }
+      ]
+    }
+  ]
+}
